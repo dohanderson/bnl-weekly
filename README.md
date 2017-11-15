@@ -27,15 +27,18 @@ The report tracks progress statewide and by CAN toward goals in the following ar
 ## Recording Progress Toward Goals and Improving Data Quality
 All data in this report is tabulated from the HMIS BNL export and represents a snapshot in time as of the report date shown at the top of the report. The following are some ways that the BNL can be proactively managed to show progress toward these goals and improve data quality.
  
-Goals 1, 2, and 3 - Verify the CH status of people on the Active BNL who are marked as "Potentially Chronic" or who have an Unknown/Blank CH Status
-    * Mark clients as “Not Chronic (Verified)” if they do not currently meet the HUD criteria for chronic homelessness    
+**Goals 1, 2, and 3** - Verify the CH status of people on the Active BNL who are marked as "Potentially Chronic" or who have an Unknown/Blank CH Status
+
+* Mark clients as “Not Chronic (Verified)” if they do not currently meet the HUD criteria for chronic homelessness    
 * Mark clients as “Chronic (Verified)” when they do meet the HUD criteria for chronic homelessness
 * Mark clients as Inactive if they are not currently active
  
-Goal 4 – House Chronic (Verified) clients within an average of 90 days
-    * Accurately record the date on which the client’s chronic status was verified
-    * Mark Chronic (Verified) clients as Inactive and Housed as soon as they are housed
+**Goal 4** – House Chronic (Verified) clients within an average of 90 days
+
+* Accurately record the date on which the client’s chronic status was verified
+* Mark Chronic (Verified) clients as Inactive and Housed as soon as they are housed
 
 ## Clean up outliers on the BNL
+
 * Sort the BNL export by Active date to identify clients who have been active for the longest amount of time and update their active dates (if they have recently become active after a period of activity), or mark them as inactive (if they are in fact not active).
 * Sort the BNL export by CH Verification Date to identify clients who have been Chronic (Verified) for the longest amount of time and identify barriers to housing them (or mark them as inactive and housed if they have been housed).
