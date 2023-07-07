@@ -1,7 +1,10 @@
-# Overview of the Connecticut BNL Weekly Status Report
+<!-- wp:paragraph -->
+**NOTE: The data in these reports is based on a By-Name List (BNL) that was retired on June 30, 2023. It is not comparable to data in future reports or dashboards that will be based on BNL v2, which launched on 7/1/2023.**
+
+# Overview of the Connecticut BNL Weekly Status Report [retired 6/30/2023]
 This weekly status report is based on data that is recorded on the By Name List (BNL) in HMIS. In order for improvements and progress toward CAN and statewide goals to be recorded and appear in the report, client statuses must be updated on the HMIS BNL.
  
-## The Data in the Report
+## The Data in the Report [retired 6/30/2023]
 The report is divided into three main sections: (1) BNL Activity, (2) Unverified CH Statuses, and (3) Verified CH Statuses.  Data in all sections is calculated by CAN and statewide.
 
 **(1) BNL Activity** *[blue section – rows a,b,c,d,e]*
